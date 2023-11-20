@@ -64,7 +64,7 @@ threadpoolctl==3.2.0
 tokenizers==0.10.3
 torch==1.11.0
 tqdm==4.66.1
-transformers==4.9.2
+transformers==4.30.0
 typer==0.9.0
 typing_extensions==4.8.0
 tzdata==2023.3
